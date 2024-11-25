@@ -1,2 +1,2 @@
 #Live site <br/>
-https://devkhrmnturk.github.io/recipe-cardd/
+https://devkhrmnturk.github.io/FrontendMentor-ChallangeRecipeCard/
